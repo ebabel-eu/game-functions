@@ -1,4 +1,4 @@
-# ebabel-library
+# DEPRECATED
 Library of re-useable game functions to build web browser HTML5 games.
 
 ## Use for your own game
